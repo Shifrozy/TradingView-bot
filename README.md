@@ -1,2 +1,4 @@
 # TradingView-bot
-An Advance TradingView Bot 
+```bash
+An Advance TradingView Bot Phase 1
+```
